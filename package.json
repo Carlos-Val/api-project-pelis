@@ -1,0 +1,26 @@
+{
+    "name": "api-project-pelis",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Carlos-Val/api-project-pelis.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Carlos-Val/api-project-pelis/issues"
+    },
+    "homepage": "https://github.com/Carlos-Val/api-project-pelis#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "mongoose": "^5.11.18",
+        "node": "^15.8.0",
+        "nodemon": "^2.0.7"
+    }
+}
